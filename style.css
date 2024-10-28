@@ -1513,7 +1513,7 @@ margin-bottom: 2rem;
             gap: 10px;
         }
         .slide-footer img{
-            width: 20px;
+            width: 25px;
         }
 }
 @media (max-width: 500px) {
@@ -5130,7 +5130,7 @@ display: flex;
     }
    
     .slide-footer img{
-        width: 5px;
+        width: 20px;
     }
     .sli-last2{
         font-size: 13px;
